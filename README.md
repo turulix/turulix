@@ -1,5 +1,7 @@
 # Hi, I'm Tim
 - 🌍  German developer 🇩🇪
+- 📖  Studying Data Science
+- 🤖  Sometimes teaching Computers how to do things.
 
 <br />
 
@@ -29,6 +31,8 @@
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turulix&layout=compact&show_icons=true&hide_border=false" />
   </picture>
 </span>
+
+<br/>
 
 <picture>
 <source 
