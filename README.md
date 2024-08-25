@@ -28,7 +28,7 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=turulix&layout=compact&show_icons=true&hide_border=false&hide=jupyter%20notebook%2Clua%2Chtml"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turulix&layout=compact&show_icons=true&hide_border=false" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turulix&layout=compact&show_icons=true&hide_border=false&hide=jupyter%20notebook%2Clua%2Chtml" />
   </picture>
 </span>
 
